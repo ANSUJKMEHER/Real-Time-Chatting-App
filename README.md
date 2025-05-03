@@ -51,12 +51,12 @@ A full-featured web-based chat application that enables real-time communication 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chattingappnew.git
+   git clone https://github.com/ANSUJKMEHER/Real-Time-Chatting-App.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd chattingappnew
+   cd Real-Time-Chatting-App
    ```
 
 3. Install dependencies:
