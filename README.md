@@ -105,11 +105,7 @@ A full-featured web-based chat application that enables real-time communication 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
-Your Name - [Your Email]
-Project Link: [https://github.com/yourusername/chattingappnew](https://github.com/yourusername/chattingappnew) 
+Your Name - ansujkmeher@gmail.com
