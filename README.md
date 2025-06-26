@@ -113,12 +113,10 @@ A full-featured web-based chat application that enables real-time communication 
 - SQL injection prevention
 - XSS protection
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ## Contact
 
-Your Name - ansujkmeher@gmail.com
+mail -  ansujkmeher@gmail.com
 
